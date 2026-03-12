@@ -1,16 +1,9 @@
 module.exports = [
   {
-    id: "1a2b3c4d-001",
-    content: "🎉 Version 2.3 is live! Improved startup speed and fixed several minor bugs. YURA LOX 123 TEST",
-    createdAt: "2026-03-08T09:30:00Z",
-    updatedAt: "2026-03-08T09:30:00Z",
-    createdBy: "Sentra Team",
-    media: [
-      {
-        type: "image",
-        url: "https://cdn.sentra.app/news/v2-3-launch.png",
-        alt: "Launcher 2.3 UI"
-      }
-    ]
+    id: "7f9c2a11-002",
+    content: "🚀 Big news: Sentra is now open-source! The core project has been published so the community can contribute, audit the code, and help shape the future of the launcher. We believe transparency and collaboration will make Sentra stronger. Developers can now explore the repository, submit improvements, and report issues directly.",
+    createdAt: "2026-03-12T13:40:00Z",
+    updatedAt: "2026-03-12T13:40:00Z",
+    createdBy: "Sentra Team"
   }
 ]
